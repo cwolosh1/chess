@@ -1,1 +1,1 @@
-# Chess in Pygame
+# Chess in Pygame (incomplete)
